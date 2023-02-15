@@ -44,9 +44,12 @@ public class lab3 {
         return mode;
     }
 
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
+        // Taking user inputs 
+
         System.out.print("Enter the max no. of elements need to be kept in array : ");
         int size = scanner.nextInt();
         
@@ -55,6 +58,8 @@ public class lab3 {
             System.out.print("Enter Number " + (i+1) + ": ");
             array[i] = scanner.nextInt();
         }
+
+        // Option for selecting Mean / Median / Mode
         
         System.out.println("What you want to calculate, Select option :");
         System.out.println("1. Mean");

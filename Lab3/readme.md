@@ -11,18 +11,18 @@
 
 ## Output : 
 
-Enter the max no. of elements need to be kept in array : 5
-Enter Number 1: 1
-Enter Number 2: 2
-Enter Number 3: 3
-Enter Number 4: 4
-Enter Number 5: 5
-What you want to calculate, Select option :
-1. Mean
-2. Median
-3. Mode
-2
-Median is : 3.0
+#### Enter the max no. of elements need to be kept in array : 5
+#### Enter Number 1: 1
+#### Enter Number 2: 2
+#### Enter Number 3: 3
+#### Enter Number 4: 4
+#### Enter Number 5: 5
+#### What you want to calculate, Select option :
+#### 1. Mean
+#### 2. Median
+#### 3. Mode
+#### 2
+#### Median is : 3.0
 
 
 ### Flow chart of the Program

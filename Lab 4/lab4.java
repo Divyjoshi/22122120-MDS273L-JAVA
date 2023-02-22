@@ -9,14 +9,14 @@ public class lab4 {
         ArrayList<String> transactions = new ArrayList<>();
 
         Scanner scanner = new Scanner(System.in);
-        initializeCustomer(scanner);
+        customer(scanner);
         int choice;
         do {
             System.out.println("1. Deposit money");
             System.out.println("2. Withdraw money");
             System.out.println("3. Print transactions");
             System.out.println("4. Print account summary");
-            System.out.println("0. Exit");
+            System.out.println("5. Exit");
             System.out.print("Enter your choice: ");
             choice = scanner.nextInt();
             switch (choice) {
@@ -32,17 +32,17 @@ public class lab4 {
                 case 4:
                     printAccountSummary();
                     break;
-                case 0:
-                    System.out.println("Goodbye"!);
+                case 5:
+                    System.out.println("Goodbye");
                     break;
                 default:
                     System.out.println("Invalid choice. Please try again.");
             }
-        } while (choice != 0);
+        } while (choice != 5);
         scanner.close();
     }
 
-    public static void initializeCustomer(Scanner scanner) {
+    public static void customer(Scanner scanner) {
         System.out.print("Enter account number: ");
         accountNumber = scanner.nextInt();
         scanner.nextLine();

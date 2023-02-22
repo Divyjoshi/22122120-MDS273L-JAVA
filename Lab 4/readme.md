@@ -31,39 +31,39 @@
 ##### 2. Withdraw money
 ##### 3. Print transactions
 ##### 4. Print account summary
-5. Exit
-Enter your choice: 1
-Enter deposit amount: 20000
-1. Deposit money
-2. Withdraw money
-3. Print transactions
-4. Print account summary
-5. Exit
-Enter your choice: 2
-Enter withdrawal amount: 2355
-1. Deposit money
-2. Withdraw money
-3. Print transactions
-4. Print account summary
-5. Exit
-Enter your choice: 3
-Transaction history:
-Deposit of 20000.0 on 2023-02-22 at 12:10:18.785261400
-Withdrawal of 2355.0 on 2023-02-22 at 12:10:22.552179200
-1. Deposit money
-2. Withdraw money
-3. Print transactions
-4. Print account summary
-5. Exit
-Enter your choice: 4
-Account summary:
-Account number: 456789
-Account holder name: Divy
-Account balance: 67645.0
-1. Deposit money
-2. Withdraw money
-3. Print transactions
-4. Print account summary
-5. Exit
-Enter your choice: 5
-Goodbye
+##### 5. Exit
+##### Enter your choice: 1
+##### Enter deposit amount: 20000
+##### 1. Deposit money
+##### 2. Withdraw money
+##### 3. Print transactions
+##### 4. Print account summary
+##### 5. Exit
+##### Enter your choice: 2
+##### Enter withdrawal amount: 2355
+##### 1. Deposit money
+##### 2. Withdraw money
+##### 3. Print transactions
+##### 4. Print account summary
+##### 5. Exit
+##### Enter your choice: 3
+##### Transaction history:
+##### Deposit of 20000.0 on 2023-02-22 at 12:10:18.785261400
+##### Withdrawal of 2355.0 on 2023-02-22 at 12:10:22.552179200
+##### 1. Deposit money
+##### 2. Withdraw money
+##### 3. Print transactions
+##### 4. Print account summary
+##### 5. Exit
+##### Enter your choice: 4
+##### Account summary:
+##### Account number: 456789
+##### Account holder name: Divy
+##### Account balance: 67645.0
+##### 1. Deposit money
+##### 2. Withdraw money
+##### 3. Print transactions
+##### 4. Print account summary
+##### 5. Exit
+##### Enter your choice: 5
+##### Goodbye

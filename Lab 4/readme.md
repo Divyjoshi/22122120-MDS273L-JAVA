@@ -65,5 +65,11 @@
 ##### 3. Print transactions
 ##### 4. Print account summary
 ##### 5. Exit
-##### Enter your choice: 5
+##### Enter your choice: 5!
 ##### Goodbye
+
+
+[Untitled Diagram drawio](https://user-images.githubusercontent.com/75930738/220545073-e44d6d83-7828-43f0-836c-1929fb6e44a5.png)
+
+
+

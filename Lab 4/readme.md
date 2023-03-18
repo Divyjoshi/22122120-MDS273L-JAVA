@@ -65,5 +65,15 @@
 ##### 3. Print transactions
 ##### 4. Print account summary
 ##### 5. Exit
-##### Enter your choice: 5
+##### Enter your choice: 5!
 ##### Goodbye
+
+
+
+![Bank Account Flow Chart](https://user-images.githubusercontent.com/75930738/220545374-f2add984-cc11-4803-8ad2-f799cd85bd22.png)
+
+
+
+
+
+

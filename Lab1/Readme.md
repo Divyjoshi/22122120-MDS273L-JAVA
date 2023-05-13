@@ -6,3 +6,9 @@
 
 
 #### The program displays the input data as well as the following details: Name Gender (Male/Female) Age State Region (Southern,Northern,Eastern,Western) Register Number
+
+
+### Flowchart
+
+![image](https://github.com/Divyjoshi/22122120-MDS273L-JAVA/assets/75930738/df891e40-3ee8-4418-a66a-e181677c247f)
+

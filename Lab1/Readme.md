@@ -1,4 +1,4 @@
-##Student Information Program
+## Student Information Program
 
 #### This program lets you enter personal information and displays it on the screen.
 

@@ -48,3 +48,10 @@ j=2
 6=2
 8=2
 z=2
+
+
+### ----------- FLOWCHART -------------------
+
+
+![flow](https://github.com/Divyjoshi/22122120-MDS273L-JAVA/assets/75930738/53731df6-064b-4c39-89f7-f59042e0d4ff)
+

@@ -5,7 +5,7 @@ public class FileAnalyzer {
 
     public static void main(String[] args) {
         
-        String filename = "text.txt"; // replace with the actual filename
+        String filename = "text.txt"; 
         File file = new File(filename);
         Map<Character, Integer> vowelsCount = new HashMap<>();
         Map<Character, Integer> digitsCount = new HashMap<>();
